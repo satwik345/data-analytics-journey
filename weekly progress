@@ -1,0 +1,8 @@
+- week 1:
+    🔹 Filtering data with WHERE, AND, OR, NOT, IN
+    🔹 Grouping and aggregating using GROUP BY, HAVING, COUNT, AVG, SUM
+    🔹 Pattern matching with LIKE
+    🔹 Using CASE, DISTINCT, ALIAS for cleaner logic
+    🔹 Playing with string and date functions
+    🔹 Sorting and slicing with ORDER BY, LIMIT
+
