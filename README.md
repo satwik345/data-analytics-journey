@@ -7,5 +7,5 @@ Hi! I'm SATWIK — a college student diving deep into data analytics from **Oct 
 - Tools: Power BI, Tableau, Excel, ChatGPT ...
 
 ## 🔗 Connect With Me
-Follow my journey on [LinkedIn](www.linkedin.com/in/konala-satwik-kumar-reddy-b85483319) — I post weekly updates, insights, and student-style reflections.
+Follow my journey on [LinkedIn](linkedin.com/in/konala-satwik-kumar-reddy-b85483319/) — I post weekly updates, insights, and student-style reflections.
 
