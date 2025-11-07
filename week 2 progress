@@ -1,3 +1,15 @@
+- week 2:
+    🔹 Subqueries
+    🔹 Window Functions
+    🔹 Common Table Expressions (CTEs)
+    🔹 Triggers & Events
+    🔹 Temporary Tables
+    🔹 Joins & Set Operations
+
+
+
+
+
 # Find employees whose salary is above the company average.
 select * from employee_records 
 where salary > (select avg(salary) from employee_records)
