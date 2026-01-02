@@ -1,16 +1,1 @@
-{
-  "version": "1.0",
-  "artifacts": [
-    {
-      "report": {
-        "path": "E -Commerce sales dashboard.Report"
-      }
-    }
-  ],
-  "settings": {
-    "enableAutoRecovery": true
-  }
-}
 
-**/.pbi/localSettings.json
-**/.pbi/cache.abf
